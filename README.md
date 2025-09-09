@@ -1,8 +1,10 @@
 ## Hoi there!
 
-### - A CS student, still learning from scratch, keeping on collecting =)
+### A CS student, still learning from scratch, keeping on collecting =)
 
-### Currently learing C++, JavaScript(Typescript), and Rust (which is difficult =( 
+#### Code lover and MUG enthusiast
+
+#### Currently learing ![C++](https://img.shields.io/badge/C++-004482?logo=cplusplus&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)(Typescript), and ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) (which is difficult =( 
 
 Some stats:
 
@@ -13,3 +15,9 @@ Some stats:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nopthon/Nopthon/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nopthon/Nopthon/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div align="left">
+  <img src="https://pic1.imgdb.cn/item/67bc5a16d0e0a243d40395e6.gif" width="20%" height="auto" />
+</div>
+
+(I used 20min to create this profile lol and now it's time for coding && exploring lmao)
