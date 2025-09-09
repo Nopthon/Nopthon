@@ -6,7 +6,7 @@
 
 #### Currently learing ![C++](https://img.shields.io/badge/C++-004482?logo=cplusplus&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)(Typescript), and ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 
-### Some stats:
+### Some stats: 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nopthon)
 
