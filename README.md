@@ -1,17 +1,17 @@
 ## Hoi there!
 
-### A CS student from NJU (ex-geoscience), still learning from scratch, keeping on collecting =)
+### A CS student from NJU, still learning from scratch, keeping on collecting =)
 
-#### Code lover. MUG enthusiast. Usually coding with headphones on.       d😎b
+#### Code lover. MUG enthusiast. CTF greenhand. Usually coding with headphones on (core mostly).
 
 #### Currently learning: 
 
 ![C++](https://img.shields.io/badge/C++-004482?logo=cplusplus&logoColor=white)<br>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) (TypeScript)<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) / (TypeScript)<br>
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)<br>
+(no p_thon)
 
-
-### Some stats: 
+### Some stats (not exact at all lol): 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nopthon)
 
@@ -23,8 +23,10 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nopthon/Nopthon/output/github-contribution-grid-snake.svg">
 </picture>
 
+#### (Can someone teach me coding?😭)
+
 <div align="left">
   <img src="https://pic1.imgdb.cn/item/67bc5a16d0e0a243d40395e6.gif" width="20%" height="auto" />
 </div>
 
-(It took me 20min to create this profile lol)
+
