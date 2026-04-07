@@ -26,7 +26,7 @@
 #### (Can someone teach me coding?😭)
 
 <div align="left">
-  <img src="https://pic1.imgdb.cn/item/67bc5a16d0e0a243d40395e6.gif" width="20%" height="auto" />
+  <img src="(https://pic1.imgdb.cn/item/69d4ea56cfae5fcb267aaec6.gif" width="20%" height="auto" />
 </div>
 
 
